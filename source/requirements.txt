@@ -1,0 +1,9 @@
+fonttools>=4.67
+freetype-py
+numpy
+scipy
+skia-pathops
+ttfautohint-py
+brotli
+uharfbuzz
+pillow
